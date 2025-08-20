@@ -1,4 +1,4 @@
-# Guitar Pedal Updater (Entry-Level)
+# Guitar Pedal Updater
 
 A small Tkinter app to download **firmware** or **effects** from a local server and save them to disk.
 
